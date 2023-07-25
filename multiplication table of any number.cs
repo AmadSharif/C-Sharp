@@ -13,4 +13,4 @@ public class Program
             Console.WriteLine(n+"x{0} = {1}", i, n * i);
         }
     }
-} //("n * {0} = {1}", i, n * i);
+}
