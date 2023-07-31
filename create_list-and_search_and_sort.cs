@@ -5,6 +5,7 @@ names.Add("Maria");
 names.Add("Bill");
 names.Remove("Ana");
 
+names.sort();
 foreach (var name in names)
 {
   Console.WriteLine($"Hello {name.ToUpper()}!");
