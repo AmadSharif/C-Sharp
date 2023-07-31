@@ -4,7 +4,7 @@ var names = new List<String> {"Ana","amad"};
 names.Add("Maria");
 names.Add("Bill");
 names.Remove("Ana");
-
+//sorting using sort method
 names.sort();
 foreach (var name in names)
 {
